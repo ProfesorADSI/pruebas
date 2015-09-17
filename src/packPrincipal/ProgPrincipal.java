@@ -18,7 +18,8 @@ public class ProgPrincipal {
 	     */
 	    public static void main(String[] args)
 	    {
-		System.out.println("Iniciando Sesión");
+	    	System.out.println("***BIENVENIDO AL LOG DE LA CONSOLA***");
+	    	System.out.println("Iniciando Sesión");
 		
 		// sesion.iniciarJuego();
 		//TODO: Bukaeran osatu begiratzeko ea ondo dabilen
